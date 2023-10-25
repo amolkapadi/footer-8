@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.line{
+    width: 60px !important;
+    height: 2px;
+    background-color: tomato !important;
+    margin-bottom: 20px;
+}
+h3{
+    color: #38455d;
+    font-weight: 900 !important;
+    font-size: 1.25rem !important;
+}
+p{
+    color: #ababab !important;
+}
+.footer-text{
+    text-align: center;
+    color: white !important;
+    font-size: 20px;
+    
+}
+.footer{
+    background-color: tomato;
+    border-radius: 30px;
+    padding: 10px;
+}
